@@ -3,7 +3,7 @@
 **How to run the project:**
 
 - Download the "Search Your Data" to your local machine.
-- In the .env file add OPENAI\_API\_KEY=" Paste your OpenAI API key here".
+- In the .env file, " Paste your OpenAI API key".
 - Open terminal and type in "streamlit run app.py".
 - App will run in a new browser window in your default browser.
 - Upload your PDF files in the side bar and click on process.
