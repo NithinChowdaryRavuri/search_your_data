@@ -2,7 +2,7 @@
 
 **How to run the project:**
 
-- Download the "Search Your Data" to your local machine and create a .env file.
+- Download the "Search Your Data" to your local machine.
 - In the .env file add OPENAI\_API\_KEY=" Paste your OpenAI API key here".
 - Open terminal and type in "streamlit run app.py".
 - App will run in a new browser window in your default browser.
